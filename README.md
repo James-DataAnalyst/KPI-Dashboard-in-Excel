@@ -32,10 +32,10 @@ While working on this project, I used several Excel features to make the dashboa
 - Maps – For regional/state-level sales insights.
 
 ## Pivot Tables and Analysis
-Pivot Table 1                     | Pivot Table 2
+Analysis 1                     | Analysis 2
 :--------------------------------:|:-------------------------:
 ![](UKPivot1.PNG)                 |  ![](UKPivot2.PNG)
-Pivot Table 3                     
+Analysis 3                     
 ![](UKPivot3.PNG)                   
 
 
