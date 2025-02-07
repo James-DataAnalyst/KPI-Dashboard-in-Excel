@@ -59,12 +59,13 @@ Analysis 3
 #### Customer & Order Behavior
 - Identified top 5 customers based on total revenue contribution.
 - Shipping trends analyzed to understand customer preferences.
-[Watch Video](https://drive.google.com/file/d/1dyYur2i34-wnI82m7UonXXUt17aOVqvt/view?usp=sharing)
 
 Dark Mode                         |           Light Mode
 :--------------------------------:|:-------------------------:
 ![](UK1.PNG)                      |  ![](UK11.PNG)
 ![](UK2.PNG)                      |  ![](UK22.PNG)
+
+[Watch Video](https://drive.google.com/file/d/1dyYur2i34-wnI82m7UonXXUt17aOVqvt/view?usp=sharing)
 
 ## Dashboard Features
 - Year Selection (2014-2017)
